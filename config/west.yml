@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: josborn1999
+    - name: zmkfirmware
       url-base: https://github.com/josborn1999
   projects:
     - name: zmk
